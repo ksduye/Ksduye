@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Ksduye/Ksduye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksduye) 
 
-# Main projects
+# Main projects  💕💕
 [![TheOtherRolesEdited](./Images/TORE-logo.png)](https://github.com/XtremeWave/TheOtherRolesEdited)
 
-# Join the QQ group
+# Join the QQ group 😉👍
 [![QQ](./Images/TORE-QQ.png)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1YPTXe2Sh93pAUXv1mwv4unI6J_G1FYK&authKey=%2BPzdgfi%2FpbaxyPTVU1Lx8xU69Zo1X4%2FCih0lTozAbZ0%2FsCiO%2FGe8sQ97p6jxEFlV&noverify=0&group_code=647668527)
+
+# [XtremeWave](https://github.com/XtremeWave) (●'◡'●)😚
+I am part of *[XtremeWave](https://github.com/XtremeWave)*
+[![XtremeWave](./Images/XtremeWave-logo.png)](https://github.com/XtremeWave)
 </p>
